@@ -45,7 +45,7 @@
 /* Modern minimalistic theme with blue accent */
 :root {
   --radius: 0.75rem;
-  --background: oklch(0.99 0.002 240);
+  --background: oklch(50.132% 0.20573 29.223);
   --foreground: oklch(0.15 0.01 240);
   --card: oklch(1 0 0);
   --card-foreground: oklch(0.15 0.01 240);
